@@ -3,6 +3,9 @@
 	"gameCache":"2023-04-11 13:00:00",
 	"tempCache":"2023-04-11 13:00:00",
 	"Ad":true,
+	"AdForVList":true,
+	"AdForVMain":true,
+	"AdForDeposit":true,
 	"android":{
 		"switchId":"letian",
 		"domain":"https://lhj.life/",
