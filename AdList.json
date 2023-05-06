@@ -1,38 +1,44 @@
 {
 	"AdForVMain":[
 		{
-			"ID":1,
+			"ID":1001,
 			"Type":"LIVE",
-			"HREF":"https://www.sanyouantai.com/site/dj/Porn/PS01.png"
+			"HREF":"https://www.sanyouantai.com/site/dj/Porn/PS01.png",
+			"Name":"AD_LIVE"
 		},
 		{
-			"ID":2,
+			"ID":1002,
 			"Type":"GAME",
-			"HREF":"https://www.sanyouantai.com/site/dj/Porn/PS02.png"
+			"HREF":"https://www.sanyouantai.com/site/dj/Porn/PS02.png",
+			"Name":"AD_GAME"
 		}
 	],
 	"AdForVList":[
 		{
-			"ID":12001,
+			"ID":2001,
 			"Type":"List",
-			"HREF":"https://www.sanyouantai.com/site/dj/Porn/guanggao2.gif"
+			"HREF":"https://www.sanyouantai.com/site/dj/Porn/guanggao2.gif",
+			"Name":"【大奖国际】每日首存100%"
 		},
 		{
-			"ID":12002,
+			"ID":2002,
 			"Type":"List",
-			"HREF":"https://www.sanyouantai.com/site/dj/Porn/guanggao1.gif"
+			"HREF":"https://www.sanyouantai.com/site/dj/Porn/guanggao1.gif",
+			"Name":"【大奖国际】每日首存100%"
 		}
 	],
 	"AdForDeposit":[
 		{
-			"ID":4001,
+			"ID":3001,
 			"Type":"Deposit",
-			"HREF":"https://www.sanyouantai.com/site/dj/Porn/guanggao3.png"
+			"HREF":"https://www.sanyouantai.com/site/dj/Porn/guanggao3.png",
+			"Name":"AD_Deposit"
 		},
 		{
-			"ID":4002,
+			"ID":3002,
 			"Type":"Deposit",
-			"HREF":"https://www.sanyouantai.com/site/dj/Porn/guanggao2.png"
+			"HREF":"https://www.sanyouantai.com/site/dj/Porn/guanggao2.png",
+			"Name":"AD_Deposit"
 		}
 	]
 }
