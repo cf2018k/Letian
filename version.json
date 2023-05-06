@@ -2,7 +2,7 @@
 	"gameDomainCache":"2023-04-11 13:00:00",
 	"gameCache":"2023-04-11 13:00:00",
 	"tempCache":"2023-04-11 13:00:00",
-	"Ad":true,
+	"Ad":false,
 	"android":{
 		"switchId":"letian",
 		"domain":"https://lhj.life/",
