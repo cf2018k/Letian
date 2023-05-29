@@ -1,16 +1,16 @@
 {
 	"AdForVMain":[
 		{
-			"ID":1001,
-			"Type":"LIVE",
-			"HREF":"https://www.sanyouantai.com/site/dj/Porn/PS01.png",
-			"Name":"AD_LIVE"
-		},
-		{
 			"ID":1002,
 			"Type":"GAME",
-			"HREF":"https://www.sanyouantai.com/site/dj/Porn/PS02.png",
+			"HREF":"https://www.sanyouantai.com/site/dj/Porn/PS03.png",
 			"Name":"AD_GAME"
+		},
+		{
+			"ID":1001,
+			"Type":"AD",
+			"HREF":"https://www.sanyouantai.com/site/dj/Porn/guanggao3.gif",
+			"Name":"AD"
 		}
 	],
 	"AdForVList":[
